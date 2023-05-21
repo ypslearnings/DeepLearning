@@ -44,8 +44,4 @@ Please ensure that your contributions adhere to the repository's code style guid
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the code for personal or commercial purposes.
 
-## Contact
-
-If you have any questions or suggestions regarding the code in this repository, please feel free to contact us at [email@example.com](mailto:email@example.com). We appreciate your feedback and contributions!
-
 Happy coding!
